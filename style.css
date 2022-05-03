@@ -1,0 +1,23 @@
+nav{
+    text-align: center;
+    background-color: lightsalmon;
+    color: black;
+}
+
+.img{
+    width: 400px;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+    background-color: skyblue;
+}
+
+h2{
+    text-align: center;
+}
+.ingredients{
+    text-align: center;
+    list-style: square;
+}
